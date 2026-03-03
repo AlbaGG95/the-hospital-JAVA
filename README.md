@@ -1,4 +1,4 @@
-# The Hospital - Java OOP Project
+# The Hospital - Java 
 
 ## Project Description
 This is an academic Java project created to practice core Object-Oriented Programming concepts:
